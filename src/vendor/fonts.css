@@ -1,8 +1,7 @@
-/* @font-face {
-  src: url('') format('woff2'),
-    url('') format('woff'),
-    url('') format('truetype');
-  font-family: '';
-  font-style: ;
-  font-weight: ;
-} */
+@font-face {
+  src:
+    /* url('') format('woff2'),
+    url('') format('woff'), */
+    url('../fonts/grafita.ttf') format('truetype');
+  font-family: 'Grafita';
+}

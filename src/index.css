@@ -1,6 +1,8 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts.css);
-
-body{
-    font-family: 'Grafita';
+@import url(./coponents/dropdown/dropdown.css);
+body {
+    font-family: 'Manrope';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }

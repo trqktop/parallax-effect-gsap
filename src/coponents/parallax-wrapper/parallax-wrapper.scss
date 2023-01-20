@@ -1,0 +1,14 @@
+.parallax-wrapper {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    z-index: -1;
+    min-height: 100vh;
+
+    &__panel {
+        width: 100%;
+        background: #E7E3DA;
+    }
+}
